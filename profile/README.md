@@ -1,4 +1,4 @@
-<img src="https://github.com/nakas-warehouse/.github/blob/main/assets/images/icon-transparent.png" align="right" width="64px" height="64px" alt="Icon">
+<img src="https://github.com/nakas-warehouse/.github/blob/main/assets/images/banner.png" align="center" alt="Banner">
 
 # naka's warehouse
 A collection of mods made by naka.
